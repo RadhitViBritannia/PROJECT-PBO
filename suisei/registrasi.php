@@ -28,7 +28,7 @@ if  (isset($_POST['submit'])) {
             window.location = 'registrasi.php';
             </script>"
         }else {
-        mysqli_query($koneksi,"INSERT INTO user VALUES('','$nama','$username','$password'");
+        mysqli_query($koneksi,"INSERT INTO user VALUES('$hostname','$nama','$username','$password'");
         echo "<script>
         alert('Data berhasil dikirim');
         window.location = index.php';
