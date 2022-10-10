@@ -47,3 +47,9 @@ Author URL: https://colorlib.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/license/by/3.0/
 -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Creative Colorlib SignUp Form</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
